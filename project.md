@@ -14,8 +14,6 @@ from keras.layers import *
 from keras.optimizers import Adam
 %matplotlib inline
 ```
-
-    Using TensorFlow backend.
     
 
 
