@@ -1,4 +1,4 @@
-# Self-Driving-Car-Nanodegree
+# Self Driving Car program
 
 ## Nanodegree includes following projects
 
